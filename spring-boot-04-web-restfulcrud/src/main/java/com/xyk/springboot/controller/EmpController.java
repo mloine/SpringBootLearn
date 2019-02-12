@@ -19,6 +19,7 @@ public class EmpController {
 
     @Autowired
     DepartmentDao departmentDao;
+    private Department department;
 
     //查询员工列表 返回刘表页面
     @GetMapping("/emps")
