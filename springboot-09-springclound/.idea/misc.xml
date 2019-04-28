@@ -5,6 +5,7 @@
       <list>
         <option value="$PROJECT_DIR$/provider-ticket/pom.xml" />
         <option value="$PROJECT_DIR$/consumer-user/pom.xml" />
+        <option value="$PROJECT_DIR$/enureka-server/pom.xml" />
       </list>
     </option>
   </component>

@@ -3,8 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/consumer-user/consumer-user.iml" filepath="$PROJECT_DIR$/consumer-user/consumer-user.iml" />
-      <module fileurl="file://$PROJECT_DIR$/enureka-server/enureka-server.iml" filepath="$PROJECT_DIR$/enureka-server/enureka-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/provider-ticket/provider-ticket.iml" filepath="$PROJECT_DIR$/provider-ticket/provider-ticket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/enureka-server/provider-ticket (1).iml" filepath="$PROJECT_DIR$/enureka-server/provider-ticket (1).iml" />
     </modules>
   </component>
 </project>

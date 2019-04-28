@@ -8,11 +8,13 @@
         <outputRelativeToContentRoot value="true" />
         <module name="consumer-user" />
         <module name="provider-ticket" />
+        <module name="provider-ticket (1)" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="consumer-user" target="1.8" />
       <module name="provider-ticket" target="1.8" />
+      <module name="provider-ticket (1)" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
